@@ -1,0 +1,7 @@
+div{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 10px 8px -6px rgba(0, 0, 0, 0.75);
+    margin: auto;
+}

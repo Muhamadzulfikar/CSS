@@ -1,0 +1,52 @@
+body div{
+    width:200px;
+    height: 200px;
+    display: inline-block;
+    background-color: red;
+}
+div.kotak1{
+    background-color: red;
+    border-radius: 100%;
+}
+div.kotak2{
+    background-color: green;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+div.kotak3{
+    background-color: blue;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+div.kotak5{
+    background-color: aqua;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+div.kotak4{
+    background-color: aquamarine;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+div.kotak6{
+    background-color: blueviolet;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+div.kotak7{
+    background-color: brown;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+div.kotak8{
+    background-color: chartreuse;
+    border-top-left-radius: 100%;
+}
+div.kotak9{
+    background-color: chocolate;
+    border-top-right-radius: 100%;
+}
+div.kotak10{
+    background-color: coral;
+    border-bottom-left-radius: 100%;
+}

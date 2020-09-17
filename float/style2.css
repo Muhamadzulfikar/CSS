@@ -1,0 +1,14 @@
+div.container{
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+}
+img{
+    height: 100px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+p{
+    margin-left: 82px;
+}

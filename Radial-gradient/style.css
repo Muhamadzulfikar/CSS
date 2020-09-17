@@ -1,0 +1,22 @@
+div.kotak1{
+    width: 200px;
+    height: 200px;
+    background-color: lightskyblue;
+    background-image: radial-gradient(circle closest-side, red 50%, blue 50%);
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+div.kotak2{
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(circle farthest-corner, red 50%, blue 50%);
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+div.kotak3{
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(circle farthest-corner at top left, red 50%, blue 50%);
+    border: 1px solid black;
+    margin-bottom: 20px;
+}

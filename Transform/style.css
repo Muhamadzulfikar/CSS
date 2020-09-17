@@ -1,0 +1,14 @@
+/*transform: rotate();
+  transform: scale();
+  transform: skew();
+  transform: translate();*/
+div.kotak{
+    width: 200px;
+    height: 200px;
+    margin: 100px auto 0;
+    background-color: lightblue;
+    transition: 1s;
+}
+div.kotak:hover{
+    transform: rotate(180deg);
+}

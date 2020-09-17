@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+.display1{
+    display: block;
+    background-color: cyan; /*sifat display block membuat elemen baru berada dibawah dan memiliki dimensi*/ 
+}
+.display2{
+    display: inline;
+    background-color: darkblue; /*sifat display inline membuat elemen baru berada disamping dan tidak memiliki dimensi(menyesuaikan dengan ukuran elemet)*/
+}
+.display3{
+    display: inline-block;
+    background-color: darkcyan; /*sifat dispay inline-block membuat elemen baru berada disamping dan memiliki dimensi*/
+}

@@ -1,0 +1,27 @@
+div.kotak1{
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px; /*memasukan property secara manual*/
+}
+div.kotak2{
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+    margin: 10px auto; /*memasukan property dengan value atas-bawah dan kiri-kanan*/
+}
+div.kotak3{
+    background-color: darkgoldenrod;
+    width: 100px;
+    height: 100px;
+    margin: 10px auto 10px auto; /*memasukan property dengan value atas kanan bawah kiri*/
+}
+div.kotak4{
+    background-color: darkgreen;
+    width: 100px;
+    height: 100px;
+    margin: -5px auto; /*memasukan property dengan value negatif*/
+}

@@ -1,0 +1,17 @@
+/*filter: blur();
+filter: brightness();
+filter: contrast();
+filter: drop-shadow();
+filter: grayscale();
+filter: hue-rotate();
+filter: invert();
+filter: opacity();
+filter: saturate();
+filter: sepia();*/
+body{
+    text-align: center;
+}
+img{
+    -webkit-filter: blur(0px);
+    filter:  blur(0px);
+}

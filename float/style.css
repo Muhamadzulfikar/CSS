@@ -1,0 +1,16 @@
+div.container{
+    width:600px;
+    margin:auto;
+    border: 1px solid black;
+}
+div.kotak{
+    width: 80px;
+    height: 80px;
+    background-color: salmon;
+    text-align: center;
+    line-height: 80px;
+    float: left;
+}
+div.clear{
+    clear: left;
+}
