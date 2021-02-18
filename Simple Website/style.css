@@ -1,0 +1,21 @@
+body{
+    background-image: url('./3860345.jpg');
+    font-family:cursive;
+}
+.container{
+    width: 900px;
+    background-color: rgb(255, 255, 255,0.9);
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid black;
+    color:darkturquoise;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
