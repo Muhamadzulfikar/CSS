@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bg-green{
+    background-color: #009400;
+}
+
+.bg-lightgreen{
+    background-color: #00da00;
+}
+
+.logo{
+    background-image: url('./instekter_logo-removebg-preview.png');
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: 307px;
+}
+
+.navbar{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+.navbar p a{
+    text-decoration: none;
+    color: white;
+}
+
+div.navbar p{
+    margin-right: 39px;
+    font-size: 24px;
+}
+
+.btn{
+    width: 80px;
+    height: 40px;
+    margin-right: 10px;
+    font-size: 18px;
+    border-radius: 10%;
+}
+
+.btn-main{
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-right: 20px;
+    border-radius: 10%;
+    padding: 2px;
+}
+
+.text-white{
+    color: white;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.text-lightgreen{
+    color: #00da00;
+}
+
+.border-white{
+    border: 1px solid white;
+}
+
+.border-lightgreen{
+    border: 1px solid #00da00;;
+}
+
+.slogan{
+    width: 600px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 82px;
+    margin-left: 65px;
+}
+
+.describtion{
+    width: 500px;
+    font-size: 25px;
+    margin-left: 65px;
+    margin-top: 30px;
+    border-left: 3px solid yellowgreen;
+    padding-left: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.image{
+    width: 700px;
+    height: 687px;
+    background-image: url('./b10d147f2c4a44a615ea97ef0ba9da2a-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.ml-60{
+    margin-left: 60px;
+}
+
+.second{
+    margin-top: 150px;
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.second div p{
+    margin-right: 146px;
+    font-weight: bold;
+}
+.second div div{
+    width: 300px;
+    height: 100px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.loginForm{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.loginForm h1{
+    text-align: center;
+    font-size: 40px;
+    color: #000000cc;
+    margin-bottom: 40px;
+}
+
+.loginForm p{
+    font-size:25px;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+
+.loginForm input{
+    width:500px;
+    height:30px;
+    border-radius:5%;
+    background-color:#00da00;
+    border:1px solid #00da00;
+    font-size:23px;
+    margin-bottom: 35px;
+    color:white;
+}
+
+.loginForm button{
+    width:200px;
+    height: 60px;
+    font-size: 20px;
+    background-color:#00da00;
+    border-radius:10%;
+    border: 1px solid white;
+    color:white;
+    margin-top:20px;
+}
